@@ -1,0 +1,19 @@
+platform :ios, '13.0'
+
+target 'Tiki-Assignment' do
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'Kingfisher', '~> 7.0'
+  pod 'NVActivityIndicatorView'
+  pod 'SnapKit'
+
+  target 'Tiki-AssignmentTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Tiki-AssignmentUITests' do
+    # Pods for testing
+  end
+
+end

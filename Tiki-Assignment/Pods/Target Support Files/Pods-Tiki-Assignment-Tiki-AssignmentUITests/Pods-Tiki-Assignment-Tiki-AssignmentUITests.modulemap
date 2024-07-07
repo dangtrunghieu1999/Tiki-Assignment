@@ -1,0 +1,6 @@
+module Pods_Tiki_Assignment_Tiki_AssignmentUITests {
+  umbrella header "Pods-Tiki-Assignment-Tiki-AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

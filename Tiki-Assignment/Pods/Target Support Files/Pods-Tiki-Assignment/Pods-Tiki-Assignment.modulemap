@@ -1,0 +1,6 @@
+module Pods_Tiki_Assignment {
+  umbrella header "Pods-Tiki-Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
